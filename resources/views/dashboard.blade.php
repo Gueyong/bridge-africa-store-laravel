@@ -8,7 +8,7 @@
 
   <p>Manage your products and showcase them to the world.</p>
 
-  <a href="{{ route('products.index') }}" class="btn btn-primary">Go to Products</a><br>
+  <a href="{{ route('products.index') }}" class="btn btn-primary">Go to Products</a>
 
   <a href="{{ route('profile.show') }}" class="btn btn-link">View Profile</a>
 
